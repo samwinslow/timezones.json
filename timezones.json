@@ -104,10 +104,21 @@
     ]
   },
   {
-    "value": "Mountain Standard Time (Mexico)",
+    "value": "Mountain Daylight Time (Mexico)",
     "abbr": "MDT",
     "offset": -6,
     "isdst": true,
+    "text": "(UTC-06:00) Chihuahua, La Paz, Mazatlan",
+    "utc": [
+      "America/Chihuahua",
+      "America/Mazatlan"
+    ]
+  },
+	  {
+    "value": "Mountain Standard Time (Mexico)",
+    "abbr": "MST",
+    "offset": -7,
+    "isdst": false,
     "text": "(UTC-07:00) Chihuahua, La Paz, Mazatlan",
     "utc": [
       "America/Chihuahua",
