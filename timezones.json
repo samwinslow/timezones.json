@@ -116,10 +116,27 @@
   },
   {
     "value": "Mountain Standard Time",
+    "abbr": "MST",
+    "offset": -7,
+    "isdst": false,
+    "text": "(UTC-07:00) Mountain Time (US & Canada)",
+    "utc": [
+      "America/Boise",
+      "America/Cambridge_Bay",
+      "America/Denver",
+      "America/Edmonton",
+      "America/Inuvik",
+      "America/Ojinaga",
+      "America/Yellowknife",
+      "MST7MDT"
+    ]
+  },
+  {
+    "value": "Mountain Daylight Time",
     "abbr": "MDT",
     "offset": -6,
     "isdst": true,
-    "text": "(UTC-07:00) Mountain Time (US & Canada)",
+    "text": "(UTC-06:00) Mountain Time (US & Canada)",
     "utc": [
       "America/Boise",
       "America/Cambridge_Bay",
@@ -148,7 +165,7 @@
       "Pacific/Galapagos"
     ]
   },
-	{
+  {
     "value": "Central Standard Time",
     "abbr": "CST",
     "offset": -6,
