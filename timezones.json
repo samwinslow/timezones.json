@@ -38,10 +38,23 @@
   },
   {
     "value": "Alaskan Standard Time",
+    "abbr": "AKST",
+    "offset": -9,
+    "isdst": false,
+    "text": "(UTC-09:00) Alaska",
+    "utc": [
+      "America/Anchorage",
+      "America/Juneau",
+      "America/Nome",
+      "America/Sitka",
+      "America/Yakutat"
+    ]
+  }, {
+    "value": "Alaskan Daylight Time",
     "abbr": "AKDT",
     "offset": -8,
     "isdst": true,
-    "text": "(UTC-09:00) Alaska",
+    "text": "(UTC-08:00) Alaska",
     "utc": [
       "America/Anchorage",
       "America/Juneau",
