@@ -51,10 +51,20 @@
     ]
   },
   {
-    "value": "Pacific Standard Time (Mexico)",
+    "value": "Pacific Daylight Time (Mexico)",
     "abbr": "PDT",
     "offset": -7,
     "isdst": true,
+    "text": "(UTC-07:00) Baja California",
+    "utc": [
+      "America/Santa_Isabel"
+    ]
+  },
+	  {
+    "value": "Pacific Standard Time (Mexico)",
+    "abbr": "PST",
+    "offset": -8,
+    "isdst": false,
     "text": "(UTC-08:00) Baja California",
     "utc": [
       "America/Santa_Isabel"
