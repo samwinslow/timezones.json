@@ -832,6 +832,16 @@
     "abbr": "SDT",
     "offset": 3,
     "isdst": true,
+    "text": "(UTC+03:00) Damascus",
+    "utc": [
+      "Asia/Damascus"
+    ]
+  },
+	  {
+    "value": "Syria Standard Time",
+    "abbr": "SST",
+    "offset": 2,
+    "isdst": false,
     "text": "(UTC+02:00) Damascus",
     "utc": [
       "Asia/Damascus"
