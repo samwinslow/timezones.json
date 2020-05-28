@@ -953,8 +953,8 @@
   {
     "value": "Kaliningrad Standard Time",
     "abbr": "KST",
-    "offset": 3,
-    "isdst": false,
+    "offset": 2,
+    "isdst": true,
     "text": "(UTC+02:00) Kaliningrad",
     "utc": [
       "Europe/Kaliningrad"
