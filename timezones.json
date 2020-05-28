@@ -799,6 +799,19 @@
     "abbr": "GDT",
     "offset": 3,
     "isdst": true,
+    "text": "(UTC+03:00) Athens, Bucharest",
+    "utc": [
+      "Asia/Nicosia",
+      "Europe/Athens",
+      "Europe/Bucharest",
+      "Europe/Chisinau"
+    ]
+  },
+	  {
+    "value": "GTB Standard Time",
+    "abbr": "GST",
+    "offset": 2,
+    "isdst": false,
     "text": "(UTC+02:00) Athens, Bucharest",
     "utc": [
       "Asia/Nicosia",
