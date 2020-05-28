@@ -671,6 +671,32 @@
     "abbr": "WEDT",
     "offset": 2,
     "isdst": true,
+    "text": "(UTC+02:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "utc": [
+      "Arctic/Longyearbyen",
+      "Europe/Amsterdam",
+      "Europe/Andorra",
+      "Europe/Berlin",
+      "Europe/Busingen",
+      "Europe/Gibraltar",
+      "Europe/Luxembourg",
+      "Europe/Malta",
+      "Europe/Monaco",
+      "Europe/Oslo",
+      "Europe/Rome",
+      "Europe/San_Marino",
+      "Europe/Stockholm",
+      "Europe/Vaduz",
+      "Europe/Vatican",
+      "Europe/Vienna",
+      "Europe/Zurich"
+    ]
+  },
+	  {
+    "value": "W. Europe Standard Time",
+    "abbr": "WEST",
+    "offset": 1,
+    "isdst": false,
     "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
     "utc": [
       "Arctic/Longyearbyen",
