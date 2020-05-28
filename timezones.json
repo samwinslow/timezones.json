@@ -582,7 +582,7 @@
   },
   {
     "value": "Morocco Standard Time",
-    "abbr": "MDT",
+    "abbr": "MST",
     "offset": 1,
     "isdst": true,
     "text": "(UTC) Casablanca",
