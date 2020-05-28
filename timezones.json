@@ -376,6 +376,21 @@
     "abbr": "ADT",
     "offset": -3,
     "isdst": true,
+    "text": "(UTC-03:00) Atlantic Time (Canada)",
+    "utc": [
+      "America/Glace_Bay",
+      "America/Goose_Bay",
+      "America/Halifax",
+      "America/Moncton",
+      "America/Thule",
+      "Atlantic/Bermuda"
+    ]
+  },
+	  {
+    "value": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -4,
+    "isdst": false,
     "text": "(UTC-04:00) Atlantic Time (Canada)",
     "utc": [
       "America/Glace_Bay",
