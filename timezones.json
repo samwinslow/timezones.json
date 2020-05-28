@@ -248,6 +248,20 @@
     "abbr": "CDT",
     "offset": -5,
     "isdst": true,
+    "text": "(UTC-05:00) Guadalajara, Mexico City, Monterrey",
+    "utc": [
+      "America/Bahia_Banderas",
+      "America/Cancun",
+      "America/Merida",
+      "America/Mexico_City",
+      "America/Monterrey"
+    ]
+  },
+	  {
+    "value": "Central Standard Time (Mexico)",
+    "abbr": "CST",
+    "offset": -6,
+    "isdst": false,
     "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
     "utc": [
       "America/Bahia_Banderas",
