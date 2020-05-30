@@ -911,7 +911,7 @@
     ]
   },
   {
-    "value": "Israel Standard Time",
+    "value": "Israel Daylight Time",
     "abbr": "JDT",
     "offset": 3,
     "isdst": true,
