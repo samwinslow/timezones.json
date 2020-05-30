@@ -860,10 +860,23 @@
     ]
   },
   {
-    "value": "Central European Standard Time",
+    "value": "Central European Daylight Time",
     "abbr": "CEDT",
     "offset": 2,
     "isdst": true,
+    "text": "(UTC+02:00) Sarajevo, Skopje, Warsaw, Zagreb",
+    "utc": [
+      "Europe/Sarajevo",
+      "Europe/Skopje",
+      "Europe/Warsaw",
+      "Europe/Zagreb"
+    ]
+  },
+	  {
+    "value": "Central European Standard Time",
+    "abbr": "CEST",
+    "offset": 1,
+    "isdst": false,
     "text": "(UTC+01:00) Sarajevo, Skopje, Warsaw, Zagreb",
     "utc": [
       "Europe/Sarajevo",
