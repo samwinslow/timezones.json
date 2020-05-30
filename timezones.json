@@ -838,7 +838,7 @@
     ]
   },
   {
-    "value": "E. Europe Standard Time",
+    "value": "E. Europe Daylight Time",
     "abbr": "EEDT",
     "offset": 3,
     "isdst": true,
