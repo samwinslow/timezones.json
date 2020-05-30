@@ -711,10 +711,24 @@
   },
   {
     "value": "GMT Standard Time",
+    "abbr": "GST",
+    "offset": 0,
+    "isdst": false,
+    "text": "(UTC) Dublin, Lisbon",
+    "utc": [
+      "Atlantic/Canary",
+      "Atlantic/Faeroe",
+      "Atlantic/Madeira",
+      "Europe/Dublin",
+      "Europe/Lisbon"
+    ]
+  },
+	 {
+    "value": "GMT Daylight Time",
     "abbr": "GDT",
     "offset": 1,
     "isdst": true,
-    "text": "(UTC) Dublin, Lisbon",
+    "text": "(UTC+01:00) Dublin, Lisbon",
     "utc": [
       "Atlantic/Canary",
       "Atlantic/Faeroe",
