@@ -1,6 +1,6 @@
 {
   "name": "@commanddot/timezones.json",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "description": "Full list of UTC timezones",
   "main": "index.js",
   "repository": {
