@@ -1049,7 +1049,7 @@
     "value": "Azerbaijan Standard Time",
     "abbr": "AST",
     "offset": 4,
-    "isdst": true,
+    "isdst": false,
     "text": "(UTC+04:00) Baku",
     "utc": [
       "Asia/Baku"
