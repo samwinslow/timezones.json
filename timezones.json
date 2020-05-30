@@ -1024,7 +1024,7 @@
     ]
   },
   {
-    "value": "Iran Standard Time",
+    "value": "Iran Daylight Time",
     "abbr": "IDT",
     "offset": 4.5,
     "isdst": true,
