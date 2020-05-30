@@ -814,10 +814,26 @@
     ]
   },
   {
-    "value": "Central Europe Standard Time",
+    "value": "Central Europe Daylight Time",
     "abbr": "CEDT",
     "offset": 2,
     "isdst": true,
+    "text": "(UTC+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "utc": [
+      "Europe/Belgrade",
+      "Europe/Bratislava",
+      "Europe/Budapest",
+      "Europe/Ljubljana",
+      "Europe/Podgorica",
+      "Europe/Prague",
+      "Europe/Tirane"
+    ]
+  },
+	 {
+    "value": "Central Europe Standard Time",
+    "abbr": "CEST",
+    "offset": 1,
+    "isdst": false,
     "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
     "utc": [
       "Europe/Belgrade",
