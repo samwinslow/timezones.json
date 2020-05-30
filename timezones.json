@@ -630,7 +630,7 @@
   },
   {
     "value": "GMT Standard Time",
-    "abbr": "GDT",
+    "abbr": "GST",
     "offset": 0,
     "isdst": false,
     "text": "(UTC) Dublin, Lisbon",
@@ -643,8 +643,8 @@
     ]
   },
 	 {
-    "value": "GMT Standard Time",
-    "abbr": "GST",
+    "value": "GMT Daylight Time",
+    "abbr": "GDT",
     "offset": 1,
     "isdst": true,
     "text": "(UTC+01:00) Dublin, Lisbon",
