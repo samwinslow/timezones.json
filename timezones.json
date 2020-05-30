@@ -559,7 +559,7 @@
     "utc": []
   },
 	  {
-    "value": "Mid-Atlantic Standard Time",
+    "value": "Mid-Atlantic Daylight Time",
     "abbr": "MDT",
     "offset": -1,
     "isdst": true,
