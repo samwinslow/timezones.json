@@ -248,6 +248,20 @@
     "abbr": "CDT",
     "offset": -5,
     "isdst": true,
+    "text": "(UTC-05:00) Guadalajara, Mexico City, Monterrey",
+    "utc": [
+      "America/Bahia_Banderas",
+      "America/Cancun",
+      "America/Merida",
+      "America/Mexico_City",
+      "America/Monterrey"
+    ]
+  },
+	  {
+    "value": "Central Standard Time (Mexico)",
+    "abbr": "CST",
+    "offset": -6,
+    "isdst": false,
     "text": "(UTC-06:00) Guadalajara, Mexico City, Monterrey",
     "utc": [
       "America/Bahia_Banderas",
@@ -344,6 +358,18 @@
     "abbr": "UEDT",
     "offset": -4,
     "isdst": true,
+    "text": "(UTC-04:00) Indiana (East)",
+    "utc": [
+      "America/Indiana/Marengo",
+      "America/Indiana/Vevay",
+      "America/Indianapolis"
+    ]
+  },
+	  {
+    "value": "US Eastern Standard Time",
+    "abbr": "UEST",
+    "offset": -5,
+    "isdst": false,
     "text": "(UTC-05:00) Indiana (East)",
     "utc": [
       "America/Indiana/Marengo",
@@ -376,6 +402,21 @@
     "abbr": "ADT",
     "offset": -3,
     "isdst": true,
+    "text": "(UTC-03:00) Atlantic Time (Canada)",
+    "utc": [
+      "America/Glace_Bay",
+      "America/Goose_Bay",
+      "America/Halifax",
+      "America/Moncton",
+      "America/Thule",
+      "Atlantic/Bermuda"
+    ]
+  },
+	  {
+    "value": "Atlantic Standard Time",
+    "abbr": "AST",
+    "offset": -4,
+    "isdst": false,
     "text": "(UTC-04:00) Atlantic Time (Canada)",
     "utc": [
       "America/Glace_Bay",
