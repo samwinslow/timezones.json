@@ -883,7 +883,7 @@
     ]
   },
   {
-    "value": "FLE Standard Time",
+    "value": "FLE Daylight Time",
     "abbr": "FDT",
     "offset": 3,
     "isdst": true,
