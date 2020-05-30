@@ -614,6 +614,17 @@
     "abbr": "ADT",
     "offset": 0,
     "isdst": true,
+    "text": "(UTC-00:00) Azores",
+    "utc": [
+      "America/Scoresbysund",
+      "Atlantic/Azores"
+    ]
+  },
+	  {
+    "value": "Azores Standard Time",
+    "abbr": "AST",
+    "offset": -1,
+    "isdst": false,
     "text": "(UTC-01:00) Azores",
     "utc": [
       "America/Scoresbysund",
