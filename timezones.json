@@ -808,7 +808,7 @@
     ]
   },
   {
-    "value": "Middle East Standard Time",
+    "value": "Middle East Daylight Time",
     "abbr": "MEDT",
     "offset": 3,
     "isdst": true,
