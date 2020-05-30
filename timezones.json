@@ -945,10 +945,20 @@
     ]
   },
   {
-    "value": "Middle East Standard Time",
+    "value": "Middle East Daylight Time",
     "abbr": "MEDT",
     "offset": 3,
     "isdst": true,
+    "text": "(UTC+03:00) Beirut",
+    "utc": [
+      "Asia/Beirut"
+    ]
+  },
+	  {
+    "value": "Middle East Standard Time",
+    "abbr": "MEST",
+    "offset": 2,
+    "isdst": false,
     "text": "(UTC+02:00) Beirut",
     "utc": [
       "Asia/Beirut"
