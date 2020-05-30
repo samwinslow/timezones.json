@@ -1505,7 +1505,7 @@
     "value": "Kamchatka Standard Time",
     "abbr": "KST",
     "offset": 12,
-    "isdst": true,
+    "isdst": false,
     "text": "(UTC+12:00) Petropavlovsk-Kamchatsky - Old",
     "utc": [
       "Asia/Kamchatka"
