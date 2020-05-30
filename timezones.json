@@ -795,7 +795,7 @@
     ]
   },
   {
-    "value": "GTB Standard Time",
+    "value": "GTB Daylight Time",
     "abbr": "GDT",
     "offset": 3,
     "isdst": true,
