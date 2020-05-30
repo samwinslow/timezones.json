@@ -749,7 +749,7 @@
     ]
   },
   {
-    "value": "Central European Standard Time",
+    "value": "Central European Daylight Time",
     "abbr": "CEDT",
     "offset": 2,
     "isdst": true,
