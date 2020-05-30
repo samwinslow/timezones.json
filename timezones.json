@@ -354,7 +354,7 @@
     ]
   },
   {
-    "value": "US Eastern Standard Time",
+    "value": "US Eastern Daylight Time",
     "abbr": "UEDT",
     "offset": -4,
     "isdst": true,
@@ -398,7 +398,7 @@
     ]
   },
   {
-    "value": "Atlantic Standard Time",
+    "value": "Atlantic Daylight Time",
     "abbr": "ADT",
     "offset": -3,
     "isdst": true,
@@ -489,7 +489,7 @@
     ]
   },
   {
-    "value": "Newfoundland Standard Time",
+    "value": "Newfoundland Daylight Time",
     "abbr": "NDT",
     "offset": -2.5,
     "isdst": true,
@@ -610,7 +610,7 @@
     "utc": []
   },
   {
-    "value": "Azores Standard Time",
+    "value": "Azores Daylight Time",
     "abbr": "ADT",
     "offset": 0,
     "isdst": true,
