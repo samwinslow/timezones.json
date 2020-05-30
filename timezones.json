@@ -828,7 +828,7 @@
     ]
   },
   {
-    "value": "Syria Standard Time",
+    "value": "Syria Daylight Time",
     "abbr": "SDT",
     "offset": 3,
     "isdst": true,
