@@ -603,10 +603,18 @@
   },
   {
     "value": "Mid-Atlantic Standard Time",
+    "abbr": "MST",
+    "offset": -2,
+    "isdst": false,
+    "text": "(UTC-02:00) Mid-Atlantic - Old",
+    "utc": []
+  },
+	  {
+    "value": "Mid-Atlantic Daylight Time",
     "abbr": "MDT",
     "offset": -1,
     "isdst": true,
-    "text": "(UTC-02:00) Mid-Atlantic - Old",
+    "text": "(UTC-01:00) Mid-Atlantic - Old",
     "utc": []
   },
   {
