@@ -1064,10 +1064,28 @@
     ]
   },
   {
-    "value": "FLE Standard Time",
+    "value": "FLE Daylight Time",
     "abbr": "FDT",
     "offset": 3,
     "isdst": true,
+    "text": "(UTC+03:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
+    "utc": [
+      "Europe/Helsinki",
+      "Europe/Kiev",
+      "Europe/Mariehamn",
+      "Europe/Riga",
+      "Europe/Sofia",
+      "Europe/Tallinn",
+      "Europe/Uzhgorod",
+      "Europe/Vilnius",
+      "Europe/Zaporozhye"
+    ]
+  },
+	  {
+    "value": "FLE Standard Time",
+    "abbr": "FST",
+    "offset": 2,
+    "isdst": false,
     "text": "(UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius",
     "utc": [
       "Europe/Helsinki",
