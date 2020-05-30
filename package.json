@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/commanddot/timezones.json/issues"
   },
-  "homepage": "https://github.com/commanddot/timezones.json"
+  "scripts": {
+    "validate": "ajv validate -s schema.json -d timezones.json"
+  },
+  "homepage": "https://github.com/commanddot/timezones.json",
+  "devDependencies": {
+    "ajv-cli": "^3.2.1"
+  }
 }

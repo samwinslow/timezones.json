@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/CommandDot/timezones.json/schema.json",
+  "title": "@commanddot/timezones.json",
+  "description": "A collection of timezones",
+  "items": {
+    "type": "object",
+    "properties": {
+      "value": {
+        "type": "string"
+      },
+      "abbr": {
+        "type": "string"
+      },
+      "offset":{
+        "type": "number"
+      },
+      "isdst": {
+        "type": "boolean"
+      },
+      "text": {
+        "type": "string"
+      },
+      "utc": {
+        "type":"array",
+        "items": {
+          "type": "string"
+        }
+      }
+    },
+    "required": [ "abbr", "isdst", "offset", "text", "utc", "value" ]
+  },
+  "minItems": 1,
+  "uniqueItems": true,
+  "type": "array"
+}
