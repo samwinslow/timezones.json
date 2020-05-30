@@ -493,6 +493,16 @@
     "abbr": "NDT",
     "offset": -2.5,
     "isdst": true,
+    "text": "(UTC-02:30) Newfoundland",
+    "utc": [
+      "America/St_Johns"
+    ]
+  },
+	  {
+    "value": "Newfoundland Standard Time",
+    "abbr": "NST",
+    "offset": -3.5,
+    "isdst": false,
     "text": "(UTC-03:30) Newfoundland",
     "utc": [
       "America/St_Johns"
