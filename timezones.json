@@ -652,10 +652,21 @@
   },
   {
     "value": "Morocco Standard Time",
-    "abbr": "MDT",
-    "offset": 1,
+    "abbr": "MST",
+    "offset": 0,
     "isdst": true,
     "text": "(UTC) Casablanca",
+    "utc": [
+      "Africa/Casablanca",
+      "Africa/El_Aaiun"
+    ]
+  },
+	  {
+    "value": "Morocco Daylight Time",
+    "abbr": "MDT",
+    "offset": 1,
+    "isdst": false,
+    "text": "(UTC+01:00) Casablanca",
     "utc": [
       "Africa/Casablanca",
       "Africa/El_Aaiun"
