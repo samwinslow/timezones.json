@@ -37,7 +37,7 @@ test('Paris is CEST/CEDT', () => {
   expect(shortname(summer.zone, summer)).toBe('CEDT')
 })
 
-test('January in Amsterdam is CEST/CEDT', () => {
+test('Amsterdam is CEST/CEDT', () => {
   const winter = DateTime.fromObject({ month: 1, day: 1, zone: 'Europe/Amsterdam' })
   expect(shortname(winter.zone, winter)).toBe('CEST')
   const summer = DateTime.fromObject({ month: 7, day: 1, zone: 'Europe/Amsterdam' })
