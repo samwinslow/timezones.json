@@ -90,8 +90,8 @@
     "isdst": true,
     "text": "(UTC-07:00) Pacific Time (US & Canada)",
     "utc": [
-      "America/Dawson",
       "America/Los_Angeles",
+      "America/Dawson",
       "America/Tijuana",
       "America/Vancouver",
       "America/Whitehorse"
@@ -104,8 +104,8 @@
     "isdst": false,
     "text": "(UTC-08:00) Pacific Time (US & Canada)",
     "utc": [
-      "America/Dawson",
       "America/Los_Angeles",
+      "America/Dawson",
       "America/Tijuana",
       "America/Vancouver",
       "America/Whitehorse",
@@ -155,9 +155,9 @@
     "isdst": false,
     "text": "(UTC-07:00) Mountain Time (US & Canada)",
     "utc": [
+      "America/Denver",
       "America/Boise",
       "America/Cambridge_Bay",
-      "America/Denver",
       "America/Edmonton",
       "America/Inuvik",
       "America/Ojinaga",
@@ -172,9 +172,9 @@
     "isdst": true,
     "text": "(UTC-06:00) Mountain Time (US & Canada)",
     "utc": [
+      "America/Denver",
       "America/Boise",
       "America/Cambridge_Bay",
-      "America/Denver",
       "America/Edmonton",
       "America/Inuvik",
       "America/Ojinaga",
