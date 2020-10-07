@@ -53,16 +53,16 @@ test('London is GMT/BST', () => {
 
 test('Sydney is AEST/AEDT', () => {
   const winter = DateTime.fromObject({ month: 1, day: 1, zone: 'Australia/Sydney' })
-  expect(shortname(winter.zone, winter)).toBe('AEST')
+  expect(shortname(winter.zone, winter)).toBe('AEDT')
   const summer = DateTime.fromObject({ month: 7, day: 1, zone: 'Australia/Sydney' })
-  expect(shortname(summer.zone, summer)).toBe('AEDT')
+  expect(shortname(summer.zone, summer)).toBe('AEST')
 })
 
 test('Auckland is NZST/NZDT', () => {
   const winter = DateTime.fromObject({ month: 1, day: 1, zone: 'Pacific/Auckland' })
-  expect(shortname(winter.zone, winter)).toBe('NZST')
+  expect(shortname(winter.zone, winter)).toBe('NZDT')
   const summer = DateTime.fromObject({ month: 7, day: 1, zone: 'Pacific/Auckland' })
-  expect(shortname(summer.zone, summer)).toBe('NZDT')
+  expect(shortname(summer.zone, summer)).toBe('NZST')
 })
 
 test('Hong Kong is HKT', () => {
