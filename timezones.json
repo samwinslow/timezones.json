@@ -787,13 +787,41 @@
       "Europe/Zurich"
     ]
   },
-	  {
-    "value": "W. Europe Standard Time",
-    "abbr": "WEST",
+  {
+    "value": "Central Europe Daylight Time",
+    "abbr": "CEDT",
+    "offset": 2,
+    "isdst": true,
+    "text": "(UTC+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
+    "utc": [
+      "Europe/Belgrade",
+      "Europe/Bratislava",
+      "Europe/Budapest",
+      "Europe/Ljubljana",
+      "Europe/Podgorica",
+      "Europe/Prague",
+      "Europe/Tirane"
+    ]
+  },
+  {
+    "value": "Central Europe Standard Time",
+    "abbr": "CET",
     "offset": 1,
     "isdst": false,
-    "text": "(UTC+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna",
+    "text": "(UTC+01:00) Central European Time",
     "utc": [
+      "Africa/Ceuta",
+      "Europe/Brussels",
+      "Europe/Copenhagen",
+      "Europe/Madrid",
+      "Europe/Paris",
+      "Europe/Belgrade",
+      "Europe/Bratislava",
+      "Europe/Budapest",
+      "Europe/Ljubljana",
+      "Europe/Podgorica",
+      "Europe/Prague",
+      "Europe/Tirane",
       "Arctic/Longyearbyen",
       "Europe/Amsterdam",
       "Europe/Andorra",
@@ -811,38 +839,6 @@
       "Europe/Vatican",
       "Europe/Vienna",
       "Europe/Zurich"
-    ]
-  },
-  {
-    "value": "Central Europe Daylight Time",
-    "abbr": "CEDT",
-    "offset": 2,
-    "isdst": true,
-    "text": "(UTC+02:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
-    "utc": [
-      "Europe/Belgrade",
-      "Europe/Bratislava",
-      "Europe/Budapest",
-      "Europe/Ljubljana",
-      "Europe/Podgorica",
-      "Europe/Prague",
-      "Europe/Tirane"
-    ]
-  },
-	 {
-    "value": "Central Europe Standard Time",
-    "abbr": "CEST",
-    "offset": 1,
-    "isdst": false,
-    "text": "(UTC+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague",
-    "utc": [
-      "Europe/Belgrade",
-      "Europe/Bratislava",
-      "Europe/Budapest",
-      "Europe/Ljubljana",
-      "Europe/Podgorica",
-      "Europe/Prague",
-      "Europe/Tirane"
     ]
   },
   {
